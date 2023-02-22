@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T04:32:25.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0" etag="ZHVQjlvPZ7ZKt94xkfe9" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T04:33:47.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 OPR/94.0.0.0" etag="88sjNrcWP0RETiYH5DCL" version="20.8.20" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1369" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="753" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -217,8 +217,8 @@
             <mxPoint x="188" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JNqZkUv3fKY6DlgbWhNs-53" value="Fundamentos de Base de Datos&lt;br&gt;Docente: Juan Carlos Pizarro Martínez&lt;br&gt;&lt;div&gt;Mitzy Abril Ginez Granados 21111215&lt;/div&gt;&lt;div&gt;Erika Gomez Allende 21111073&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=solid;strokeWidth=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="190" y="110" width="235" height="100" as="geometry" />
+        <mxCell id="JNqZkUv3fKY6DlgbWhNs-53" value="&lt;b&gt;Fundamentos de Base de Datos&lt;/b&gt;&lt;br&gt;Docente: Juan Carlos Pizarro Martínez&lt;br&gt;&lt;div&gt;Mitzy Abril Ginez Granados 21111215&lt;/div&gt;&lt;div&gt;Erika Gomez Allende 21111073&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right;&quot;&gt;21 de febrero 2023&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=solid;strokeWidth=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="190" y="90" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JNqZkUv3fKY6DlgbWhNs-54" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JNqZkUv3fKY6DlgbWhNs-4" target="JNqZkUv3fKY6DlgbWhNs-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
