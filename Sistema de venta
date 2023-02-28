@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T06:55:51.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="wua-3YQNhSd6uoCX_PsB" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T06:57:08.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="NoxOrXjmgBDK1aExrt2Y" version="20.8.23" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1426" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -486,6 +486,9 @@
         </mxCell>
         <mxCell id="xkOhtqCOnUna5r-iFQEu-153" value="(N:M)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xkOhtqCOnUna5r-iFQEu-154" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Fundamentos de Base de Datos&lt;br&gt;Docente: Juan Carlos Pizarro&lt;br&gt;&lt;br&gt;Mitzy Abril Ginez Granados 21111215&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;text-align: right; font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;27 de febrero de 2023&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="730" y="600" width="270" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
