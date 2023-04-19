@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T05:18:23.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" version="21.1.2" etag="gx6_igN0pdUrvrpPInWS" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T06:20:49.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" etag="h-eRTdKdVa3kOV5aAe8F" version="21.1.2" type="github">
   <diagram name="Página-1" id="k9CSY4wtQ7rH_aqNGPy0">
-    <mxGraphModel>
+    <mxGraphModel dx="1393" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TmfuaXYeGJsJv9ioevRX-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TmfuaXYeGJsJv9ioevRX-1" target="TmfuaXYeGJsJv9ioevRX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TmfuaXYeGJsJv9ioevRX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TmfuaXYeGJsJv9ioevRX-1" target="TmfuaXYeGJsJv9ioevRX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TmfuaXYeGJsJv9ioevRX-1" value="Proceso&lt;br/&gt;de organización y estructuración eficiente de los datos de una&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="630" y="220" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TmfuaXYeGJsJv9ioevRX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TmfuaXYeGJsJv9ioevRX-2" target="TmfuaXYeGJsJv9ioevRX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TmfuaXYeGJsJv9ioevRX-2" value="-Creación de tablas&lt;br&gt;-Establecimiento de relaciones entre las tablas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="880" y="220" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TmfuaXYeGJsJv9ioevRX-4" value="&lt;p class=&quot;MsoNormal&quot;&gt;Su objetivo es eliminar redundancia e inconsistencia de&lt;br/&gt;datos para mejorar la integridad y eficiencia de los datos&amp;nbsp;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="860" y="80" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TmfuaXYeGJsJv9ioevRX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TmfuaXYeGJsJv9ioevRX-6" target="TmfuaXYeGJsJv9ioevRX-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TmfuaXYeGJsJv9ioevRX-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TmfuaXYeGJsJv9ioevRX-6" target="TmfuaXYeGJsJv9ioevRX-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TmfuaXYeGJsJv9ioevRX-6" value="&lt;p class=&quot;MsoNormal&quot;&gt;Concepto que fue desarrollado por primera vez por Edgar F.&lt;br/&gt;Codd en la década de 1970, su necesidad surgió a medida que las bases de datos se volvieron&lt;br/&gt;mas grandes y complejas&amp;nbsp;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dbd2e0;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="605" y="360" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TmfuaXYeGJsJv9ioevRX-8" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;Desventajas:&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 11px;&quot;&gt;-Aumento en la complejidad del diseño&amp;nbsp;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 11px;&quot;&gt;-Mayor costo sobre rendimiento&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 11px;&quot;&gt;-Mayor complejidad en el mantenimiento de la base de datos&amp;nbsp;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 11px;&quot;&gt;-Dificultad en la consulta y análisis de datos&amp;nbsp;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 11px;&quot;&gt;-Rendimiento deficiente&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="470" y="500" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TmfuaXYeGJsJv9ioevRX-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TmfuaXYeGJsJv9ioevRX-11" target="TmfuaXYeGJsJv9ioevRX-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TmfuaXYeGJsJv9ioevRX-11" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;Ventajas:&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 11px;&quot;&gt;-Reducción de redundancia&amp;nbsp;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 11px;&quot;&gt;-Eliminación de dependencias parciales, transitivas, multivaluadas y de unión&amp;nbsp;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 11px;&quot;&gt;-Mejora de integridad, consistencia y eficiencia&amp;nbsp;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="780" y="500" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TmfuaXYeGJsJv9ioevRX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TmfuaXYeGJsJv9ioevRX-6" target="TmfuaXYeGJsJv9ioevRX-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="460" as="sourcePoint" />
+            <mxPoint x="635" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TmfuaXYeGJsJv9ioevRX-15" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;Restricciones:&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;u&gt;Clave primaria (PK): &lt;/u&gt;Garantiza la unicidad de cada registro&lt;br&gt;en una tabla.&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;Clave foránea (FK):&lt;/u&gt; Establece relaciones entre tablas y mantiene&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;la integridad referencial.&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;Unicidad:&lt;/u&gt; Asegura que los valores en una columna sean únicos&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;en una tabla.&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;Nulidad:&lt;/u&gt; Indica si un valor en una columna puede ser nulo o&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;no.&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;Integridad referencial:&lt;/u&gt; Mantiene la consistencia de los&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;datos entre tablas relacionadas.&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;Longitud, formato o tipo de dato: &lt;/u&gt;Especifica el tipo de&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dato, longitud o formato de los valores permitidos en una columna.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="500" width="310" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
