@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T04:29:53.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="sYsBFlJHGPVBiini4H7T" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T04:38:06.644Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="4o-QXtJXuPsxtZijtneF" version="21.3.2" type="github">
   <diagram name="Página-1" id="HQmuk8PHopYvP9JXjPiH">
     <mxGraphModel dx="1633" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -521,7 +521,7 @@
             <mxPoint x="951" y="785" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8cVJXrtyLv8F-T-S-DSX-1" value="Registra" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="8cVJXrtyLv8F-T-S-DSX-1" value="Moviliza" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="600" y="680" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8cVJXrtyLv8F-T-S-DSX-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8cVJXrtyLv8F-T-S-DSX-1" target="CTBZV7davsXF03Yissr4-61" edge="1">
