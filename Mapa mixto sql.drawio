@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T00:24:25.487Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="bGWLiQpCNUoabIGn8q7U" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T00:36:48.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="j4Eseiad81eQAUeNxxpe" version="21.3.3" type="github">
   <diagram name="Página-1" id="E3nrdJWmG3Kb5b5u3Q0t">
-    <mxGraphModel dx="602" dy="1462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="390" dy="1667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,6 +39,12 @@
         </mxCell>
         <mxCell id="5HQuOfy9uzw0ojz_F421-13" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1610" y="-180" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="5HQuOfy9uzw0ojz_F421-15" value="&lt;p class=&quot;MsoNormal&quot;&gt;-- Creamos una tabla llamada &quot;Clientes&quot;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;CREATE TABLE Clientes (&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; id INT PRIMARY&lt;br&gt;KEY,&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; nombre VARCHAR(50),&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; edad INT,&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; direccion&lt;br&gt;VARCHAR(100)&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;);&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;-- Agregamos una columna a la tabla &quot;Clientes&quot;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;ALTER TABLE Clientes&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;ADD telefono VARCHAR(20);&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;-- Eliminamos la columna &quot;direccion&quot; de la tabla&lt;br&gt;&quot;Clientes&quot;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;ALTER TABLE Clientes&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;DROP COLUMN direccion;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="-390" width="250" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="5HQuOfy9uzw0ojz_F421-16" value="DML" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="440" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
