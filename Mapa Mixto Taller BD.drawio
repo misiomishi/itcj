@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T21:18:38.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" version="21.6.3" etag="1nxG-oLzX9BVcGmIt7Z9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T21:52:35.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="_mYDa7t5_VgPNxBa-cBD" version="21.6.3" type="github">
   <diagram name="Página-1" id="AEyVApIA7w85Lbusa7Iw">
-    <mxGraphModel>
+    <mxGraphModel dx="886" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Nax9rcWnp-f-cdcPO7so-1" value="DATO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nax9rcWnp-f-cdcPO7so-2" value="ANALISIS DE DATOS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="370" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nax9rcWnp-f-cdcPO7so-3" value="INFORMACION" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="510" y="480" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nax9rcWnp-f-cdcPO7so-4" value="SISTEMA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="350" y="560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nax9rcWnp-f-cdcPO7so-5" value="SISTEMA DE INFORMACION" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="500" y="560" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nax9rcWnp-f-cdcPO7so-6" value="BASE DE DATOS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="310" y="630" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Nax9rcWnp-f-cdcPO7so-7" value="ESQUEMA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="420" y="700" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nax9rcWnp-f-cdcPO7so-8" value="INSTANCIA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="520" y="670" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nax9rcWnp-f-cdcPO7so-9" value="SGBD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="710" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nax9rcWnp-f-cdcPO7so-10" value="INSTANCIA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="660" y="620" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nax9rcWnp-f-cdcPO7so-11" value="ACID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="670" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
