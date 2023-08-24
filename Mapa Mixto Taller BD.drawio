@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T23:27:09.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="KyV94E1Ti4sNKRfwwUE6" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T23:29:33.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="mVRXLl7yaTiw37ctCZWM" version="21.6.3" type="github">
   <diagram name="Página-1" id="AEyVApIA7w85Lbusa7Iw">
-    <mxGraphModel dx="1255" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1655" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,6 +194,9 @@
         </mxCell>
         <mxCell id="Nax9rcWnp-f-cdcPO7so-74" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://o.remove.bg/downloads/ce6dbf04-61b0-4bfd-834e-fb96cf9e0c30/image-removebg-preview.png;" vertex="1" parent="1">
           <mxGeometry x="1190" y="170" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Nax9rcWnp-f-cdcPO7so-76" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Mapa Mixto Manejo de Datos&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;Taller de Bases de Datos&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;Docente: Juan Carlos Pizarro&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Mitzy Abril Ginez Granados 21111215&lt;/div&gt;&lt;div style=&quot;text-align: right; font-size: 16px;&quot;&gt;24 de Agosto de 2023&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="280" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
