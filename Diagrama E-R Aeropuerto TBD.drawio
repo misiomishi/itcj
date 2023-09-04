@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T16:32:59.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" version="21.7.2" etag="_VU7rccru_oCu8H2nwhz" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T16:44:34.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="tXVFP8ZOPPGCjf5rxqay" version="21.7.2" type="github">
   <diagram name="Página-1" id="whwjFIm7m2oG62MrGhCB">
-    <mxGraphModel>
+    <mxGraphModel dx="3575" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LofawjoTvdyJ2canN9Sz-1" value="AEROPUERTO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="70" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LofawjoTvdyJ2canN9Sz-2" value="COMPANIA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LofawjoTvdyJ2canN9Sz-3" value="AVION" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="610" y="480" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LofawjoTvdyJ2canN9Sz-4" value="RUTA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="960" y="480" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LofawjoTvdyJ2canN9Sz-5" value="PERSONAL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="610" y="130" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LofawjoTvdyJ2canN9Sz-6" value="NACIONAL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="250" y="440" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LofawjoTvdyJ2canN9Sz-7" value="CONTINENTAL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LofawjoTvdyJ2canN9Sz-8" value="INTERNACIONAL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="60" y="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LofawjoTvdyJ2canN9Sz-9" value="OPERADOR_VUELO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="840" y="240" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LofawjoTvdyJ2canN9Sz-10" value="OPERADOR_TIERRA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="610" y="240" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LofawjoTvdyJ2canN9Sz-11" value="PILOTO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="430" y="240" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
