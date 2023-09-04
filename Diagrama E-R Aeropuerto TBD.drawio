@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T16:51:22.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="z66kmtVCm1zM6m8N1oef" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T16:52:27.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="QgK_fTkY71kI6ALz9GOe" version="21.7.2" type="github">
   <diagram name="Página-1" id="whwjFIm7m2oG62MrGhCB">
     <mxGraphModel dx="3175" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -95,6 +95,18 @@
             <Array as="points">
               <mxPoint x="460" y="310" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LofawjoTvdyJ2canN9Sz-29" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LofawjoTvdyJ2canN9Sz-17" target="LofawjoTvdyJ2canN9Sz-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="160" as="sourcePoint" />
+            <mxPoint x="130" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LofawjoTvdyJ2canN9Sz-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LofawjoTvdyJ2canN9Sz-18" target="LofawjoTvdyJ2canN9Sz-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="160" as="sourcePoint" />
+            <mxPoint x="130" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
