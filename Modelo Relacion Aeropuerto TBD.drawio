@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T15:48:16.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="mUjD-6aMucCh7_c-iBY9" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T15:49:00.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="BSpQCRapb1uCoVGfXx8T" version="21.7.2" type="github">
   <diagram name="Página-1" id="a6ZiV04KGCb7zSJPk-AL">
     <mxGraphModel dx="3574" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -160,7 +160,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yMkqW9YGtFYtiNFPIrnJ-53" value="COMPANIA_INT" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#9673a6;fontSize=16;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="460" y="930" width="180" height="110" as="geometry" />
+          <mxGeometry x="460" y="900" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yMkqW9YGtFYtiNFPIrnJ-54" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="yMkqW9YGtFYtiNFPIrnJ-53">
           <mxGeometry y="30" width="180" height="40" as="geometry" />
@@ -247,7 +247,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yMkqW9YGtFYtiNFPIrnJ-74" value="COMPANIA_NAC" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#9673a6;fontSize=16;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1050" width="180" height="150" as="geometry" />
+          <mxGeometry x="460" y="1040" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="yMkqW9YGtFYtiNFPIrnJ-81" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="yMkqW9YGtFYtiNFPIrnJ-74">
           <mxGeometry y="30" width="180" height="40" as="geometry" />
