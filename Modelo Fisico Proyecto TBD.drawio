@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T20:24:45.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="BGNDTbbQ5KVMW_2cAg3U" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T20:25:07.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="64ocOC8MeRBM1XR-eZE6" version="22.1.0" type="github">
   <diagram name="Página-1" id="TZqEr8PieGHOvYz9TTjX">
     <mxGraphModel dx="2861" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -578,7 +578,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tIFGhnAZ9cftrGsLQ7kX-80" value="PRIVILEGIO" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#b85450;fontSize=16;fillColor=#f8cecc;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="510" y="660" width="250" height="270" as="geometry" />
+          <mxGeometry x="500" y="650" width="250" height="270" as="geometry" />
         </mxCell>
         <mxCell id="tIFGhnAZ9cftrGsLQ7kX-81" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="tIFGhnAZ9cftrGsLQ7kX-80">
           <mxGeometry y="30" width="250" height="40" as="geometry" />
