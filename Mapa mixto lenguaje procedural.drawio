@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T23:17:53.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" version="22.1.2" etag="W5idLUZUvVblOcmLLS9w" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T23:23:45.956Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="D5X10lD8U1CRTB1k_C4m" version="22.1.2" type="github">
   <diagram name="Página-1" id="FGyZLgKdgZYi1QoDUFZj">
-    <mxGraphModel>
+    <mxGraphModel dx="585" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-1" target="u6C_-ezJw3tM4qsvcUGR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-1" value="Conjunto&lt;br/&gt;de instrucciones para la manipulación y gestión de datos en un Sistema de&lt;br/&gt;Gestión de Bases de Datos (SGBD)." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="340" y="132" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-2" target="u6C_-ezJw3tM4qsvcUGR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-2" value="Lenguaje Procedural de un SGBD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-3" value="Se&lt;br/&gt;centra en operaciones específicas de la base de datos en lugar de lógica y&lt;br/&gt;estructuras de control." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="430" y="370" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-4" target="u6C_-ezJw3tM4qsvcUGR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-4" value="Diferencias con un lenguaje tradicional" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="310" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-9" value="SQL&lt;br/&gt;con elementos procedurales como bloques PL/SQL en Oracle o stored procedures en&lt;br/&gt;Microsoft SQL Server." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="660" y="200" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-10" target="u6C_-ezJw3tM4qsvcUGR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-10" value="Ejemplos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="695" y="138" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
