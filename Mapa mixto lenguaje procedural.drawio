@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T23:23:45.956Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="D5X10lD8U1CRTB1k_C4m" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T23:27:58.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="2XxL82e5hlJpC4anLerg" version="22.1.2" type="github">
   <diagram name="Página-1" id="FGyZLgKdgZYi1QoDUFZj">
     <mxGraphModel dx="585" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -33,6 +33,33 @@
         </mxCell>
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-10" value="Ejemplos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="695" y="138" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-12" value="&lt;p class=&quot;MsoNormal&quot;&gt;Conjunto de instrucciones SQL que realiza una tarea&lt;br/&gt;específica y devuelve un valor.&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="710" y="400" width="135" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-13" target="u6C_-ezJw3tM4qsvcUGR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-13" value="Función Almacenada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="707.5" y="330" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-15" value="&lt;p class=&quot;MsoNormal&quot;&gt;Reutilización&lt;br/&gt;de código, optimización del rendimiento, modularidad.&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="667.5" y="580" width="135" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-16" target="u6C_-ezJw3tM4qsvcUGR-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-16" value="Ventajas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="695" y="508" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-18" value="&lt;p class=&quot;MsoNormal&quot;&gt;Menos&lt;br/&gt;flexibilidad, algunas limitaciones en la complejidad.&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="860" y="580" width="135" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-19" target="u6C_-ezJw3tM4qsvcUGR-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-19" value="Desventajas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="895" y="508" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
