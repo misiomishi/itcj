@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T00:21:34.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="9cMaNcnjJ2gczYdL2mWC" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-16T00:23:24.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="RA3bDs6lyI-4vauuisjL" version="22.1.2" type="github">
   <diagram name="Página-1" id="FGyZLgKdgZYi1QoDUFZj">
     <mxGraphModel dx="1293" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -44,6 +44,9 @@
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-10" value="Ejemplos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="570" y="-18" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-12" target="u6C_-ezJw3tM4qsvcUGR-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-12" value="&lt;p class=&quot;MsoNormal&quot;&gt;Conjunto de instrucciones SQL que realiza una tarea&lt;br/&gt;específica y devuelve un valor.&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="612.5" y="336" width="135" height="70" as="geometry" />
         </mxCell>
@@ -53,26 +56,34 @@
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-13" value="Función Almacenada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="610" y="250" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-15" target="u6C_-ezJw3tM4qsvcUGR-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-15" value="&lt;p class=&quot;MsoNormal&quot;&gt;Reutilización&lt;br/&gt;de código, optimización del rendimiento, modularidad.&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="667.5" y="580" width="135" height="70" as="geometry" />
+          <mxGeometry x="487.5" y="590" width="135" height="70" as="geometry" />
         </mxCell>
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-16" target="u6C_-ezJw3tM4qsvcUGR-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-16" value="Ventajas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="695" y="508" width="70" height="30" as="geometry" />
+          <mxGeometry x="520" y="508" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-18" target="u6C_-ezJw3tM4qsvcUGR-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="730" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-18" value="&lt;p class=&quot;MsoNormal&quot;&gt;Menos&lt;br/&gt;flexibilidad, algunas limitaciones en la complejidad.&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="860" y="580" width="135" height="70" as="geometry" />
+          <mxGeometry x="747.5" y="590" width="135" height="70" as="geometry" />
         </mxCell>
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-19" target="u6C_-ezJw3tM4qsvcUGR-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-19" value="Desventajas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="895" y="508" width="90" height="30" as="geometry" />
+          <mxGeometry x="770" y="508" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-21" value="&lt;p class=&quot;MsoNormal&quot;&gt;CREATE FUNCTION CalcularDescuento(@precio INT,&lt;br&gt;@porcentajeDescuento INT)&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp; RETURNS INT&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp; AS&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp; BEGIN&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; DECLARE&lt;br&gt;@descuento INT&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; SET @descuento =&lt;br&gt;@precio * @porcentajeDescuento / 100&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; RETURN&lt;br&gt;@descuento&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; END;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="650" y="700" width="300" height="270" as="geometry" />
+          <mxGeometry x="540" y="740" width="300" height="270" as="geometry" />
         </mxCell>
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-22" target="u6C_-ezJw3tM4qsvcUGR-27">
           <mxGeometry relative="1" as="geometry" />
@@ -116,13 +127,13 @@
           <mxGeometry x="760" y="-340" width="360" height="200" as="geometry" />
         </mxCell>
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-32" value="&lt;p class=&quot;MsoNormal&quot;&gt;Una&lt;br/&gt;función devuelve un valor, mientras que un procedimiento no.&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="985" y="390" width="160" height="80" as="geometry" />
+          <mxGeometry x="960" y="350" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-33" target="u6C_-ezJw3tM4qsvcUGR-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-33" value="Diferencia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="328" width="80" height="30" as="geometry" />
+          <mxGeometry x="847.5" y="290" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-35" value="Conjuntos&lt;br/&gt;de instrucciones SQL asociados a eventos en la base de datos (inserción,&lt;br/&gt;actualización, eliminación)." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="60" y="275" width="150" height="85" as="geometry" />
@@ -146,6 +157,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.506;entryY=0.944;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-22" target="u6C_-ezJw3tM4qsvcUGR-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.46;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-23" target="u6C_-ezJw3tM4qsvcUGR-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.057;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-13" target="u6C_-ezJw3tM4qsvcUGR-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.495;entryY=0.084;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-12" target="u6C_-ezJw3tM4qsvcUGR-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
