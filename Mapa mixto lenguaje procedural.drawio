@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T00:23:24.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="RA3bDs6lyI-4vauuisjL" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-16T00:23:53.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="1ZhVQcDl6s68Dy91URvr" version="22.1.2" type="github">
   <diagram name="Página-1" id="FGyZLgKdgZYi1QoDUFZj">
     <mxGraphModel dx="1293" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -136,13 +136,13 @@
           <mxGeometry x="847.5" y="290" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-35" value="Conjuntos&lt;br/&gt;de instrucciones SQL asociados a eventos en la base de datos (inserción,&lt;br/&gt;actualización, eliminación)." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="60" y="275" width="150" height="85" as="geometry" />
+          <mxGeometry x="65" y="251" width="150" height="85" as="geometry" />
         </mxCell>
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-36" target="u6C_-ezJw3tM4qsvcUGR-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-36" value="Disipadores" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="85" y="198" width="90" height="30" as="geometry" />
+          <mxGeometry x="95" y="165" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-39" value="Validación&lt;br/&gt;de datos, actualización en cascada, auditoría de cambios en la base de datos." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="70" y="453" width="140" height="77" as="geometry" />
@@ -166,6 +166,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.495;entryY=0.084;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-12" target="u6C_-ezJw3tM4qsvcUGR-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.506;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-35" target="u6C_-ezJw3tM4qsvcUGR-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.967;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-1" target="u6C_-ezJw3tM4qsvcUGR-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
