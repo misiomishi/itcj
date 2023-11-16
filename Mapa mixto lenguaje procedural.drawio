@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T00:23:53.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="1ZhVQcDl6s68Dy91URvr" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-16T00:26:15.242Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="KSfwz0M016c2YasyN6SW" version="22.1.2" type="github">
   <diagram name="Página-1" id="FGyZLgKdgZYi1QoDUFZj">
-    <mxGraphModel dx="1293" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1227" dy="1884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,7 +82,7 @@
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-19" value="Desventajas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="770" y="508" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u6C_-ezJw3tM4qsvcUGR-21" value="&lt;p class=&quot;MsoNormal&quot;&gt;CREATE FUNCTION CalcularDescuento(@precio INT,&lt;br&gt;@porcentajeDescuento INT)&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp; RETURNS INT&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp; AS&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp; BEGIN&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; DECLARE&lt;br&gt;@descuento INT&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; SET @descuento =&lt;br&gt;@precio * @porcentajeDescuento / 100&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; RETURN&lt;br&gt;@descuento&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; END;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-21" value="&lt;p class=&quot;MsoNormal&quot;&gt;CREATE FUNCTION CalcularDescuento(@precio INT,&lt;br&gt;@porcentajeDescuento INT)&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp; RETURNS INT&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp; AS&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp; BEGIN&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; DECLARE&lt;br&gt;@descuento INT&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; SET @descuento =&lt;br&gt;@precio * @porcentajeDescuento / 100&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; RETURN&lt;br&gt;@descuento&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; END;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="540" y="740" width="300" height="270" as="geometry" />
         </mxCell>
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-22" target="u6C_-ezJw3tM4qsvcUGR-27">
@@ -123,8 +123,8 @@
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-30" value="Desventajas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="995" y="90" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u6C_-ezJw3tM4qsvcUGR-31" value="&lt;p class=&quot;MsoNormal&quot;&gt;CREATE PROCEDURE ActualizarStock(@productoID INT, @cantidad&lt;br&gt;INT)&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp; AS&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp; BEGIN&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; UPDATE Productos&lt;br&gt;SET Stock = Stock - @cantidad WHERE ProductoID = @productoID&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp; END;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="760" y="-340" width="360" height="200" as="geometry" />
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-31" value="&lt;p class=&quot;MsoNormal&quot;&gt;CREATE PROCEDURE ActualizarStock(@productoID INT, @cantidad&lt;br&gt;INT)&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AS&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp; BEGIN&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; UPDATE Productos&lt;br&gt;SET Stock = Stock - @cantidad WHERE ProductoID = @productoID&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp; END;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Courier New;align=left;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-310" width="440" height="170" as="geometry" />
         </mxCell>
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-32" value="&lt;p class=&quot;MsoNormal&quot;&gt;Una&lt;br/&gt;función devuelve un valor, mientras que un procedimiento no.&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="960" y="350" width="160" height="80" as="geometry" />
@@ -132,7 +132,7 @@
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6C_-ezJw3tM4qsvcUGR-33" target="u6C_-ezJw3tM4qsvcUGR-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u6C_-ezJw3tM4qsvcUGR-33" value="Diferencia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="u6C_-ezJw3tM4qsvcUGR-33" value="Diferencia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#e1d5e7;strokeColor=#9673a6;gradientColor=#ffffff;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="847.5" y="290" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6C_-ezJw3tM4qsvcUGR-35" value="Conjuntos&lt;br/&gt;de instrucciones SQL asociados a eventos en la base de datos (inserción,&lt;br/&gt;actualización, eliminación)." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
