@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T18:06:42.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="cX4CiL_oSiTDpoEsoaK_" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T18:08:35.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="xYK8XwKV7YZmo9Zg_Dch" version="22.1.4" type="github">
   <diagram name="Página-1" id="qLkA8fZ-BlqPOKsEqf4X">
-    <mxGraphModel dx="879" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1245" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,28 +56,28 @@
           <mxGeometry x="270" y="670" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-21" value="Características" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="820" width="90" height="30" as="geometry" />
+          <mxGeometry x="300" y="820" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-22" value="Partes de la Celda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="315" y="900" width="90" height="30" as="geometry" />
+          <mxGeometry x="300" y="920" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-23" value="Capas del Modelo ATM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="315" y="1030" width="90" height="30" as="geometry" />
+          <mxGeometry x="295" y="1030" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-24" value="Flujo de Celdas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="315" y="1130" width="90" height="30" as="geometry" />
+          <mxGeometry x="295" y="1130" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-25" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Conexión orientada.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Diseñada para voz, vídeo y datos.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Gran escalabilidad de ancho de banda.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Celdas de 53 Bytes.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="430" y="770" width="210" height="110" as="geometry" />
+          <mxGeometry x="395" y="780" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-26" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Control Genérico de Flujo.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Identificadores de Trayectoria y Canal Virtual.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tipo de Payload, Prioridad de Congestión.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Control de error y Payload.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="430" y="890" width="210" height="110" as="geometry" />
+          <mxGeometry x="385" y="880" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-27" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FÍSICA: TC (Convergencia de Transmisión) y PMD (Dependiente del Medio Físico).&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ATM: Gestión de celdas y transporte.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ADAPTACIÓN ATM (AAL): SAR (Segmentación y Reensamble), CS (Subcapa de Convergencia).&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1010" width="330" height="100" as="geometry" />
+          <mxGeometry x="375" y="1000" width="330" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-28" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Secuencia en distintos canales.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Interlaced con celdas de inactividad.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Base del sistema ATM.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1110" width="240" height="70" as="geometry" />
+          <mxGeometry x="385" y="1110" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="140" y="200" width="20" height="830" as="geometry" />
@@ -108,6 +108,21 @@
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-38" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="280" y="680" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-40" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="280" y="810" width="20" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-41" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="400" y="790" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-42" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="385" y="890" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-43" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1010" width="20" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-44" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="395" y="1120" width="20" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
