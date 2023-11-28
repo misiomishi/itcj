@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T18:05:04.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="2OAqpWQ_Il_Ifk5GXojW" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T18:05:38.416Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="J9mBXvBlTJt14MTlXcXm" version="22.1.4" type="github">
   <diagram name="Página-1" id="qLkA8fZ-BlqPOKsEqf4X">
     <mxGraphModel dx="879" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -44,10 +44,10 @@
           <mxGeometry x="280" y="355" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-17" value="Control de Errores" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="420" width="60" height="30" as="geometry" />
+          <mxGeometry x="510" y="411.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-18" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Procedimiento link by link.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Espera de señal de recibido antes de enviar nuevos datos.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="600" y="400" width="220" height="70" as="geometry" />
+          <mxGeometry x="570" y="391.25" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-19" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Similar al X.25, conexión orientada.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Control de calidad en destino (end to end).&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tasa de errores máxima: 10^-6.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Preferible para LAN de alta calidad.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Bit rate: 10-16 Mgt/s, hasta 100 Mbt/s.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="290" y="500" width="230" height="150" as="geometry" />
@@ -96,6 +96,12 @@
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="400" y="255" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-35" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="490" y="402.5" width="20" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-36" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="580" y="402.5" width="20" height="47.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
