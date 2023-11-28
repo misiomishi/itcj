@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T18:02:25.279Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="QxbOronKjmY_VOoY6c6E" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T18:05:04.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="2OAqpWQ_Il_Ifk5GXojW" version="22.1.4" type="github">
   <diagram name="Página-1" id="qLkA8fZ-BlqPOKsEqf4X">
-    <mxGraphModel dx="2242" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="879" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-1" value="Transferencia de Datos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="390" width="60" height="30" as="geometry" />
+        <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-1" value="Transferencia de Datos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30" y="600" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-2" value="Transferencia con Conexión&amp;nbsp; Orientada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="210" width="60" height="30" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="190" y="960" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-10" value="&lt;ul&gt;&lt;li&gt;Paquete inicial con dirección completa&lt;/li&gt;&lt;li&gt;Dirección almacenada en cada nodo&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="420" y="100" width="180" height="90" as="geometry" />
+          <mxGeometry x="405" y="100" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-11" value="Establecimiento de la conexión" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="140" width="60" height="30" as="geometry" />
@@ -32,13 +32,13 @@
           <mxGeometry x="330" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-13" value="&lt;ul&gt;&lt;li&gt;Paquetes con dirección abreviada (LCN).&lt;br&gt;&lt;/li&gt;&lt;li&gt;Dirección almacenada en cada nodo&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="420" y="170" width="180" height="90" as="geometry" />
+          <mxGeometry x="400" y="175" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-14" value="Conclusión" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-15" value="&lt;ul&gt;&lt;li&gt;Envío de paquete especial de terminación&lt;br&gt;&lt;/li&gt;&lt;li&gt;Eliminación de huellas del LCN en nodos&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="420" y="250" width="180" height="90" as="geometry" />
+          <mxGeometry x="390" y="245" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-16" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Paquete viaja con dirección completa.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ruta más rápida según tráfico.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Requiere reordenamiento en destino.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ancho de banda: 64 kbt/s a 2 mbt/s.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="280" y="355" width="230" height="140" as="geometry" />
@@ -78,6 +78,24 @@
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-28" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Secuencia en distintos canales.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Interlaced con celdas de inactividad.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Base del sistema ATM.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="430" y="1110" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="20" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-30" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="295" y="140" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="290" y="370" width="20" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-32" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="410" y="115" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-33" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="405" y="185" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="400" y="255" width="20" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
