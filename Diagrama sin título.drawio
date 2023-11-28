@@ -1,83 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T18:01:29.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="vbn3cv-96-K8xkWz4vwA" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T18:02:25.279Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="QxbOronKjmY_VOoY6c6E" version="22.1.4" type="github">
   <diagram name="Página-1" id="qLkA8fZ-BlqPOKsEqf4X">
-    <mxGraphModel dx="1319" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2242" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-1" value="Transferencia de Datos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="100" y="390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-2" value="Transferencia con Conexión&amp;nbsp; Orientada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="200" y="20" width="60" height="30" as="geometry" />
+          <mxGeometry x="220" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-4" value="Transferencia sin Conexión" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="190" y="220" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-5" value="Modalidad de Paquetes: Frame Relay" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="190" y="360" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="570" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-7" value="Modalidad Store and Forward" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="180" y="530" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="710" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-8" value="Modalidad en Celdas: ATM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="170" y="770" width="60" height="30" as="geometry" />
+          <mxGeometry x="190" y="960" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-10" value="&lt;ul&gt;&lt;li&gt;Paquete inicial con dirección completa&lt;/li&gt;&lt;li&gt;Dirección almacenada en cada nodo&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-90" width="180" height="90" as="geometry" />
+          <mxGeometry x="420" y="100" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-11" value="Establecimiento de la conexión" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-50" width="60" height="30" as="geometry" />
+          <mxGeometry x="330" y="140" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-12" value="Transmisión de datos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="10" width="60" height="30" as="geometry" />
+          <mxGeometry x="330" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-13" value="&lt;ul&gt;&lt;li&gt;Paquetes con dirección abreviada (LCN).&lt;br&gt;&lt;/li&gt;&lt;li&gt;Dirección almacenada en cada nodo&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-20" width="180" height="90" as="geometry" />
+          <mxGeometry x="420" y="170" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-14" value="Conclusión" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="80" width="60" height="30" as="geometry" />
+          <mxGeometry x="330" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-15" value="&lt;ul&gt;&lt;li&gt;Envío de paquete especial de terminación&lt;br&gt;&lt;/li&gt;&lt;li&gt;Eliminación de huellas del LCN en nodos&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="400" y="60" width="180" height="90" as="geometry" />
+          <mxGeometry x="420" y="250" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-16" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Paquete viaja con dirección completa.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ruta más rápida según tráfico.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Requiere reordenamiento en destino.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ancho de banda: 64 kbt/s a 2 mbt/s.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="260" y="180" width="230" height="140" as="geometry" />
+          <mxGeometry x="280" y="355" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-17" value="Control de Errores" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="235" width="60" height="30" as="geometry" />
+          <mxGeometry x="520" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-18" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Procedimiento link by link.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Espera de señal de recibido antes de enviar nuevos datos.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="570" y="220" width="220" height="70" as="geometry" />
+          <mxGeometry x="600" y="400" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-19" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Similar al X.25, conexión orientada.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Control de calidad en destino (end to end).&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tasa de errores máxima: 10^-6.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Preferible para LAN de alta calidad.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Bit rate: 10-16 Mgt/s, hasta 100 Mbt/s.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="270" y="310" width="230" height="150" as="geometry" />
+          <mxGeometry x="290" y="500" width="230" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-20" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Información almacenada en estación intermedia.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Verificación de integridad antes de enviar.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Utilizada en redes con conectividad intermitente.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="260" y="480" width="210" height="110" as="geometry" />
+          <mxGeometry x="280" y="660" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-21" value="Características" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="630" width="90" height="30" as="geometry" />
+          <mxGeometry x="320" y="820" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-22" value="Partes de la Celda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="295" y="710" width="90" height="30" as="geometry" />
+          <mxGeometry x="315" y="900" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-23" value="Capas del Modelo ATM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="295" y="840" width="90" height="30" as="geometry" />
+          <mxGeometry x="315" y="1030" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-24" value="Flujo de Celdas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="295" y="940" width="90" height="30" as="geometry" />
+          <mxGeometry x="315" y="1130" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-25" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Conexión orientada.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Diseñada para voz, vídeo y datos.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Gran escalabilidad de ancho de banda.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Celdas de 53 Bytes.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="410" y="580" width="210" height="110" as="geometry" />
+          <mxGeometry x="430" y="770" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-26" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Control Genérico de Flujo.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Identificadores de Trayectoria y Canal Virtual.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Tipo de Payload, Prioridad de Congestión.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Control de error y Payload.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="410" y="700" width="210" height="110" as="geometry" />
+          <mxGeometry x="430" y="890" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-27" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FÍSICA: TC (Convergencia de Transmisión) y PMD (Dependiente del Medio Físico).&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ATM: Gestión de celdas y transporte.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ADAPTACIÓN ATM (AAL): SAR (Segmentación y Reensamble), CS (Subcapa de Convergencia).&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="410" y="820" width="330" height="100" as="geometry" />
+          <mxGeometry x="430" y="1010" width="330" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Yj_0y2RtQ-HRpQdmvHJm-28" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Secuencia en distintos canales.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Interlaced con celdas de inactividad.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Base del sistema ATM.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="410" y="920" width="240" height="70" as="geometry" />
+          <mxGeometry x="430" y="1110" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
