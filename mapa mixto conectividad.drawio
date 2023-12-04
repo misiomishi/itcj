@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T06:31:33.679Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="BBLopITvu2HIV5IecpEk" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T06:32:46.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="F8lwfXs00aZslI_UW9It" version="22.1.5" type="github">
   <diagram name="Página-1" id="4iXY_Nk34Ne-SheheuSN">
-    <mxGraphModel dx="2727" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1540" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6sOeRgY5XGvY_d-i2xNn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6sOeRgY5XGvY_d-i2xNn-1" target="6sOeRgY5XGvY_d-i2xNn-3">
+        <mxCell id="6sOeRgY5XGvY_d-i2xNn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6sOeRgY5XGvY_d-i2xNn-1" target="6sOeRgY5XGvY_d-i2xNn-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6sOeRgY5XGvY_d-i2xNn-14" value="Tipos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6sOeRgY5XGvY_d-i2xNn-13">
@@ -13,19 +13,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6sOeRgY5XGvY_d-i2xNn-1" value="Lugar&lt;br style=&quot;font-size: 11px;&quot;&gt;o conjunto de datos de donde se extrae la información para su uso, análisis o&lt;br style=&quot;font-size: 11px;&quot;&gt;procesamiento." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="45" y="580" width="100" height="90" as="geometry" />
+          <mxGeometry x="420" y="510" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="6sOeRgY5XGvY_d-i2xNn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6sOeRgY5XGvY_d-i2xNn-2" target="6sOeRgY5XGvY_d-i2xNn-1">
+        <mxCell id="6sOeRgY5XGvY_d-i2xNn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6sOeRgY5XGvY_d-i2xNn-2" target="6sOeRgY5XGvY_d-i2xNn-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6sOeRgY5XGvY_d-i2xNn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6sOeRgY5XGvY_d-i2xNn-2" target="6sOeRgY5XGvY_d-i2xNn-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6sOeRgY5XGvY_d-i2xNn-2" value="Fuente de Datos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="195" y="490" width="60" height="30" as="geometry" />
+          <mxGeometry x="595" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6sOeRgY5XGvY_d-i2xNn-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;Base de Datos Relacional:&lt;/i&gt; Almacena datos en tablas relacionadas entre sí.&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;Base de Datos No Relacional (NoSQL)&lt;/i&gt;: Utiliza diferentes &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;modelos para almacenar datos, como documentos, gráficos o clave-valor.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;Archivos:&lt;/i&gt; Pueden ser documentos de texto, hojas de cálculo,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;archivos XML, etc.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Servicios Web:&lt;/i&gt; Proporcionan datos a través de APIs&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;align=left;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="740" width="230" height="150" as="geometry" />
+          <mxGeometry x="280" y="650" width="230" height="150" as="geometry" />
         </mxCell>
         <mxCell id="6sOeRgY5XGvY_d-i2xNn-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6sOeRgY5XGvY_d-i2xNn-4" target="6sOeRgY5XGvY_d-i2xNn-11">
           <mxGeometry relative="1" as="geometry" />
@@ -34,7 +34,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6sOeRgY5XGvY_d-i2xNn-4" value="&amp;nbsp;Interfaz o software que permite la&lt;br/&gt;comunicación entre una aplicación y una fuente de datos." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="415" y="560" width="100" height="90" as="geometry" />
+          <mxGeometry x="815" y="610" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6sOeRgY5XGvY_d-i2xNn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6sOeRgY5XGvY_d-i2xNn-5" target="6sOeRgY5XGvY_d-i2xNn-4">
           <mxGeometry relative="1" as="geometry" />
@@ -52,25 +52,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6sOeRgY5XGvY_d-i2xNn-5" value="Manejador de Conexión&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="435" y="490" width="60" height="30" as="geometry" />
+          <mxGeometry x="835" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6sOeRgY5XGvY_d-i2xNn-6" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;p style=&quot;text-align: center;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;ODBC (Open Database Connectivity):&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Estándar que proporciona una capa de abstracción para acceder a diversas fuentes de datos.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Uso: Comúnmente utilizado en entornos Windows.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;Lenguajes: C, C++, Java, .NET, PHP, Python, etc.&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Puede conectarse a una variedad de bases de datos, incluyendo MySQL, PostgreSQL, SQL Server, Oracle, y más.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;align=left;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="250" y="150" width="230" height="200" as="geometry" />
+          <mxGeometry x="650" y="200" width="230" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6sOeRgY5XGvY_d-i2xNn-7" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;p style=&quot;text-align: center;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;JDBC (Java Database Connectivity):&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;API de Java que permite la conexión a bases de datos relacionales.&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;Uso: Principalmente en aplicaciones Java.&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;Lenguajes: Java.&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Principalmente utilizado con bases de datos relacionales como MySQL,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PostgreSQL, Oracle, SQL Server, entre otros.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;align=left;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="515" y="160" width="230" height="160" as="geometry" />
+          <mxGeometry x="915" y="210" width="230" height="160" as="geometry" />
         </mxCell>
         <mxCell id="6sOeRgY5XGvY_d-i2xNn-8" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;p style=&quot;text-align: center;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;ADODB (ActiveX Data Objects Database):&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;Tecnología de Microsoft para acceder a bases de datos mediante objetos ActiveX.&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;Uso: Principalmente con entornos de desarrollo Microsoft.&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;Lenguajes: Principalmente con lenguajes y entornos de desarrollo de Microsoft como Visual Basic, VBA, etc.&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Puede &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;conectarse a bases de datos como Microsoft Access, SQL Server, y otros&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;compatibles con OLE DB.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;align=left;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="680" y="370" width="230" height="200" as="geometry" />
+          <mxGeometry x="1080" y="420" width="230" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6sOeRgY5XGvY_d-i2xNn-9" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;p style=&quot;text-align: center;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;PDO (PHP Data Objects):&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;Extensión de PHP que proporciona una interfaz uniforme para acceder a diferentes bases de datos.&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Uso: En aplicaciones web PHP.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;Lenguajes: PHP.&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Puede&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;conectarse a diversas bases de datos como MySQL, PostgreSQL, SQLite, y más.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;align=left;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="680" y="600" width="230" height="160" as="geometry" />
+          <mxGeometry x="1080" y="650" width="230" height="160" as="geometry" />
         </mxCell>
         <mxCell id="6sOeRgY5XGvY_d-i2xNn-10" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;p style=&quot;text-align: center;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;.NET:&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Framework de desarrollo de Microsoft.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Uso: Puede conectarse a diversas fuentes de datos a través&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;de sus librerías.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;Lenguajes: Principalmente con aplicaciones desarrolladas en el framework .NET, como C# y VB.NET.&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Puede conectarse a una variedad de bases de datos, incluyendo SQL Server, MySQL, Oracle, y otros.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;align=left;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="540" y="790" width="230" height="190" as="geometry" />
+          <mxGeometry x="940" y="840" width="230" height="190" as="geometry" />
         </mxCell>
         <mxCell id="6sOeRgY5XGvY_d-i2xNn-11" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;p style=&quot;text-align: center;&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;OLE DB (Object Linking and Embedding Database):&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Estándar de Microsoft para acceder a diferentes fuentes de datos.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;Uso: Históricamente utilizado en entornos Windows.&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;Lenguajes: Principalmente con entornos Windows, como Visual C++.&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Puede&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;conectarse a bases de datos compatibles con OLE DB, incluyendo SQL Server,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Oracle, Access, entre otros.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;align=left;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="255" y="780" width="230" height="200" as="geometry" />
+          <mxGeometry x="655" y="830" width="230" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
