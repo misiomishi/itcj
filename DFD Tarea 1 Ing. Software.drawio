@@ -22,6 +22,12 @@
         <mxCell id="AR3jdv1JJKhVgjpmconb-9" value="Cliente" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="930" y="390" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-11" value="DFD 0 Zapatería" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
