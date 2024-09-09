@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" version="24.7.12">
   <diagram name="Página-1" id="O4-c2-5TvVN84nTGp4Hf">
-    <mxGraphModel dx="1466" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1211" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -384,6 +384,77 @@
         </mxCell>
         <mxCell id="AR3jdv1JJKhVgjpmconb-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AR3jdv1JJKhVgjpmconb-38" target="AR3jdv1JJKhVgjpmconb-42">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-138" value="Caso de Uso Restaurante" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="387.5" y="1440" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-139" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1490" width="330" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-140" value="&amp;nbsp;Restaurante" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1490" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AR3jdv1JJKhVgjpmconb-141" target="AR3jdv1JJKhVgjpmconb-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-141" value="Cocinero" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1490" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AR3jdv1JJKhVgjpmconb-142" target="AR3jdv1JJKhVgjpmconb-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-142" value="Papá" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1640" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AR3jdv1JJKhVgjpmconb-143" target="AR3jdv1JJKhVgjpmconb-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AR3jdv1JJKhVgjpmconb-143" target="AR3jdv1JJKhVgjpmconb-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-143" value="Mamá" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1750" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AR3jdv1JJKhVgjpmconb-146" target="AR3jdv1JJKhVgjpmconb-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-146" value="Cocinar Spaguetti" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1600" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AR3jdv1JJKhVgjpmconb-147" target="AR3jdv1JJKhVgjpmconb-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-147" value="Cocinar Lasaña" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1680" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AR3jdv1JJKhVgjpmconb-148" target="AR3jdv1JJKhVgjpmconb-156">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="1757" />
+              <mxPoint x="590" y="1545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-148" value="Cocinar Comida China" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="492.5" y="1750" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-154" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.731;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AR3jdv1JJKhVgjpmconb-142" target="AR3jdv1JJKhVgjpmconb-141">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1690" as="sourcePoint" />
+            <mxPoint x="370" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-155" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.357;entryY=0.695;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AR3jdv1JJKhVgjpmconb-143" target="AR3jdv1JJKhVgjpmconb-141">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="1650" as="sourcePoint" />
+            <mxPoint x="235" y="1544" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="1530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-156" value="Cocinar Platillo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1520" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
