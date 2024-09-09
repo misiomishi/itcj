@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" version="24.7.12">
   <diagram name="Página-1" id="O4-c2-5TvVN84nTGp4Hf">
-    <mxGraphModel>
+    <mxGraphModel dx="1393" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AR3jdv1JJKhVgjpmconb-1" value="Sistema Zapatería" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="790" y="240" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-2" value="Cliente" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="650" y="250" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-5" value="Administración" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="930" y="170" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-6" value="Contabilidad" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="770" y="160" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-7" value="Almacén de zapatos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="980" y="270" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AR3jdv1JJKhVgjpmconb-9" value="Cliente" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="930" y="390" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
