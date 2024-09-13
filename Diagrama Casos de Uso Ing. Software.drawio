@@ -1,9 +1,45 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.13">
   <diagram name="Página-1" id="3gVyPQIgP8HD0y9LEb7n">
-    <mxGraphModel>
+    <mxGraphModel dx="796" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ANBc888wVuNyndApTUyL-1" value="Empleado (regular)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="470" y="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANBc888wVuNyndApTUyL-2" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="480" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANBc888wVuNyndApTUyL-3" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="580" y="400" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANBc888wVuNyndApTUyL-4" value="Comprar productos" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="620" y="260" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ANBc888wVuNyndApTUyL-5" value="Solicitar devolución" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="660" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ANBc888wVuNyndApTUyL-6" value="Registrar venta" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="690" y="410" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ANBc888wVuNyndApTUyL-7" value="Agregar productos a inventario" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="690" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ANBc888wVuNyndApTUyL-8" value="Emitir recibo de compra" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="690" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ANBc888wVuNyndApTUyL-9" value="Actualizar o eliminar productos en inventario" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="790" y="410" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ANBc888wVuNyndApTUyL-10" value="Aprobar devoluciones de producto" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="800" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ANBc888wVuNyndApTUyL-11" value="Gestionar usuarios (empleados)" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="810" y="530" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ANBc888wVuNyndApTUyL-12" value="Consultar reportes de ventas" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="890" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
