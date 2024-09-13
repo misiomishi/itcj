@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.13">
   <diagram name="Página-1" id="3gVyPQIgP8HD0y9LEb7n">
-    <mxGraphModel dx="961" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1161" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,7 +71,9 @@
           <mxGeometry x="550" y="490" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ANBc888wVuNyndApTUyL-15" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="210" width="350" height="490" as="geometry" />
+          <mxGeometry x="620" y="210" width="350" height="490" as="geometry">
+            <mxRectangle x="620" y="210" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ANBc888wVuNyndApTUyL-4" value="Comprar productos" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="ANBc888wVuNyndApTUyL-15">
           <mxGeometry x="40" y="30" width="80" height="40" as="geometry" />
