@@ -1,9 +1,47 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 OPR/113.0.0.0" version="24.7.14">
   <diagram name="Página-1" id="9Trc_fCFrfJ8SZANSMrF">
-    <mxGraphModel>
+    <mxGraphModel dx="616" dy="343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PFyiqTVHsGwoSo-fOKWH-1" value="&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Roboto; font-size: 15px; text-align: left; background-color: rgb(248, 249, 250);&quot;&gt;InterfazUsuario&amp;nbsp;&lt;/span&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="190" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PFyiqTVHsGwoSo-fOKWH-2" value="&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Roboto; font-size: 15px; text-align: left; background-color: rgb(248, 249, 250);&quot;&gt;EditDialog&lt;/span&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="100" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PFyiqTVHsGwoSo-fOKWH-3" value="&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Roboto; font-size: 15px; text-align: left; background-color: rgb(248, 249, 250);&quot;&gt;OpenDialog&amp;nbsp;&lt;/span&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="185" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PFyiqTVHsGwoSo-fOKWH-4" value="&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Roboto; font-size: 15px; text-align: left; background-color: rgb(248, 249, 250);&quot;&gt;FindDialog&lt;/span&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PFyiqTVHsGwoSo-fOKWH-5" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="PFyiqTVHsGwoSo-fOKWH-1" target="PFyiqTVHsGwoSo-fOKWH-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="300" y="220" as="sourcePoint" />
+            <mxPoint x="460" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="205" />
+              <mxPoint x="440" y="115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PFyiqTVHsGwoSo-fOKWH-6" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;" edge="1" parent="1" source="PFyiqTVHsGwoSo-fOKWH-1" target="PFyiqTVHsGwoSo-fOKWH-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="320" y="180" as="sourcePoint" />
+            <mxPoint x="480" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PFyiqTVHsGwoSo-fOKWH-7" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="PFyiqTVHsGwoSo-fOKWH-1" target="PFyiqTVHsGwoSo-fOKWH-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="215" as="sourcePoint" />
+            <mxPoint x="530" y="125" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="235" />
+              <mxPoint x="450" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
