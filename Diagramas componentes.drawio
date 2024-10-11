@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 OPR/113.0.0.0" version="24.7.14">
   <diagram name="Página-1" id="9Trc_fCFrfJ8SZANSMrF">
-    <mxGraphModel dx="739" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,16 +46,49 @@
           <mxGeometry x="390" y="50" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="PFyiqTVHsGwoSo-fOKWH-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Scanner&lt;/font&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="480" y="570" width="70" height="50" as="geometry" />
+          <mxGeometry x="430" y="580" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PFyiqTVHsGwoSo-fOKWH-15" value="&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Roboto; font-size: 15px; background-color: rgb(248, 249, 250);&quot;&gt;JTRlaptop&lt;/span&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="630" y="570" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PFyiqTVHsGwoSo-fOKWH-16" value="&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Roboto; font-size: 15px; background-color: rgb(248, 249, 250);&quot;&gt;WirelessBase&lt;/span&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="780" y="565" width="100" height="55" as="geometry" />
+          <mxGeometry x="810" y="557" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="PFyiqTVHsGwoSo-fOKWH-17" value="&lt;span style=&quot;color: rgb(29, 33, 37); font-family: Roboto; font-size: 15px; background-color: rgb(248, 249, 250);&quot;&gt;WirelessScanner&lt;/span&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="780" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="1070" y="546" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PFyiqTVHsGwoSo-fOKWH-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=20;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=30;entryDy=80;entryPerimeter=0;" edge="1" parent="1" source="PFyiqTVHsGwoSo-fOKWH-14" target="PFyiqTVHsGwoSo-fOKWH-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="660" as="sourcePoint" />
+            <mxPoint x="720" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PFyiqTVHsGwoSo-fOKWH-25" value="&amp;lt;&amp;lt;SERIAL&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PFyiqTVHsGwoSo-fOKWH-20">
+          <mxGeometry x="-0.2733" y="-2" relative="1" as="geometry">
+            <mxPoint x="13" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PFyiqTVHsGwoSo-fOKWH-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=20;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=32.5;entryDy=100;entryPerimeter=0;" edge="1" parent="1" source="PFyiqTVHsGwoSo-fOKWH-15" target="PFyiqTVHsGwoSo-fOKWH-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="610" as="sourcePoint" />
+            <mxPoint x="640" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PFyiqTVHsGwoSo-fOKWH-23" value="&amp;lt;&amp;lt;USB&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PFyiqTVHsGwoSo-fOKWH-21">
+          <mxGeometry x="-0.1898" y="3" relative="1" as="geometry">
+            <mxPoint x="12" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PFyiqTVHsGwoSo-fOKWH-22" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=22.5;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=35;entryDy=120;entryPerimeter=0;" edge="1" parent="1" source="PFyiqTVHsGwoSo-fOKWH-16" target="PFyiqTVHsGwoSo-fOKWH-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="620" as="sourcePoint" />
+            <mxPoint x="680" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PFyiqTVHsGwoSo-fOKWH-24" value="&amp;lt;&amp;lt;BLUETOOTH&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PFyiqTVHsGwoSo-fOKWH-22">
+          <mxGeometry x="0.1088" y="-1" relative="1" as="geometry">
+            <mxPoint y="14" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
